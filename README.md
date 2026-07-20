@@ -11,8 +11,6 @@ This is a fictional digital marketing campaign created as part of my portfolio.
 
 ## Tools Used
 - Canva
-- ChatGPT
-- Google Docs
 
 ## Skills Demonstrated
 - Digital Marketing
@@ -22,6 +20,6 @@ This is a fictional digital marketing campaign created as part of my portfolio.
 - Campaign Planning
 
 ## Project Files
-- Campaign Presentation (PDF)
+- Campaign Presentation 
 - Social Media Creatives
 - Marketing Strategy
