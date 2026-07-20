@@ -1,4 +1,4 @@
-# Netflix Marketing Campaign
+# Fictional Netflix Marketing Campaign
 My digital marketing campaigns and portfolio projects.
 
 ## Overview
